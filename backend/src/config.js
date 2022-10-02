@@ -7,8 +7,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "YOUR COLLECTION NAME";
-const description = "Remember to replace this description";
+const namePrefix = "The Riceyz";
+const description = "The Riceyz is a hand-drawn collection of 11 000 NFTs";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [

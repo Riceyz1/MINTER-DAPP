@@ -1,8 +1,8 @@
 const contractAddress = "0x4d0499618ECf239D0f8C86469a6aCD2231fabe67"; // Replace with your own contract address
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
-const welcome_h1 = "The Riceyz Mint Portal.";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h1 = "The Riceyz Mint Portal";
+const welcome_h2 = "Connect to MetaMask to Get Started.";
 const welcome_p = '';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";

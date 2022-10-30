@@ -2,8 +2,8 @@ const contractAddress = "0x4d0499618ECf239D0f8C86469a6aCD2231fabe67"; // Replace
 const chain = 'goerli'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "The Riceyz Mint Portal";
-const welcome_h2 = "We are still in production. The Mint date will be announced on Twitter and Discord. Follow us.";
-const welcome_p = '';
+const welcome_h2 = "";
+const welcome_p = 'We are still in production. The Mint date will be announced on Twitter and Discord. Follow us.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
